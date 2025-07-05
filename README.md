@@ -17,11 +17,6 @@ the customer by logging into their existing account. The system executes operati
 the balance of the account, withdrawing, depositing, money transfers
 between two accounts, and viewing transaction history.
 
-## Group Members:
-
- - [@parthdali](https://github.com/parthd06)
- - [@pranavdalvi](https://github.com/PRANAVD-10)
- - [@shivambhosale](https://github.com/ShivamB10)
 
 ## System Design & Flow Chart:
 
